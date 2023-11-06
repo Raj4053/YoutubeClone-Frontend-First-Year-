@@ -11,9 +11,9 @@ const SuggestionCard = () => {
 
       <div className="card-body">
         <div className="card-text">
-          <p>Title</p>
-          <p>Channel Name</p>
-          <p>200K 2 months ago</p>
+          <p className="title">Title</p>
+          <p className="faded">Channel Name</p>
+          <p className="faded">200K 2 months ago</p>
         </div>
       </div>
     </div>
